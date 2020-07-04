@@ -1,0 +1,4 @@
+﻿  ConsoleApplication3.cpp
+c:\users\75524\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(85): warning C4715: “zeroLocation”: 不是所有的控件路径都返回值
+c:\users\75524\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(176): warning C4715: “AStar”: 不是所有的控件路径都返回值
+  ConsoleApplication3.vcxproj -> C:\Users\75524\Source\Repos\ConsoleApplication3\Debug\ConsoleApplication3.exe
